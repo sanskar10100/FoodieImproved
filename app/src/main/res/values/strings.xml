@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodieImproved</string>
+    <string name="list">List</string>
+    <string name="add_an_item">Add an item</string>
+    <string name="welcome_to_foodie">Welcome to Foodie!</string>
+    <string name="add">Add</string>
+</resources>
